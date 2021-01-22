@@ -1,10 +1,14 @@
 # Comparison-of-Classifiers-for-Unsupervised-Anomaly-Detection
 
 A comparison of 30 Unsupervised Anomaly Detection Classifieres among 90 Datasets.
-- Author: Gabriel Ichcanziho Pérez Landa
+- Code Author: Gabriel Ichcanziho Pérez Landa
+- Paper Authors: Gabriel Ichcanziho Pérez Landa, Virginia Itzel Contreras Miranda, Daniela Macias Arregoyta and Miguel Angel Medina-Perez
 - Date of creation: January 22th, 2021
-- Email: ichcanziho@outlook.com
+- Code Author Email: ichcanziho@outlook.com
 
+### Abstract
+
+The problem of detecting anomalies in an unsuper-vised way is one of the most addressed in the fieldof machine learning. The anomaly detection algo-rithms are of the utmost importance, their field ofapplication is critical and ranges from cybersecu-rity to medicine. Finding these anomalies can bevery useful as it allows you to prevent problems.Despite the great relevance of this topic, few arti-cles compare different algorithms in depth. Thisdocument compares 30 anomaly detection algo-rithms using 90 publicly available databases. Theanomaly detection algorithms  belong to differ-ent families, being neural networks, probabilisticmodels, proximity-based, etc. The metrics usedin this paper are Area Under the Curve and Av-erage Precision, developing the analysis with noscaling, min-max scaling, and standard scalingthe databases. The results show that, with all thevariants, only six of the analyzed 30 algorithmshave the best performance, without statisticallysignificant differences among them.  A CriticalDifference diagram was created to show this com-parison. In the end, only three anomaly detectionalgorithms were determined as the best, outper-forming the rest. This research is useful for frauddetection, intrude detection, etc., and could beapplied to several fields of study.
 
 ### Installation
 
