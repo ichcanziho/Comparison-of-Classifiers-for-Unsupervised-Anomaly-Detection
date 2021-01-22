@@ -9,7 +9,7 @@ A comparison of 30 Unsupervised Anomaly Detection Classifieres among 90 Datasets
 ### Installation
 
 This repostory requires [Pip](https://docs.python.org/3/installing/index.html) to install the requirements.
-Before install all the libraries, it is very recomendable to make a new [Virtual ENV] (https://docs.python.org/3/library/venv.html) to isolate the new libraries.
+Before install all the libraries, it is very recomendable to make a new [Virtual ENV](https://docs.python.org/3/library/venv.html) to isolate the new libraries.
 
 
 To run the program you must have some libraries, you can install it using the next command:
